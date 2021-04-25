@@ -1,0 +1,37 @@
+#container{
+    background-color: #eaeaea;
+}
+header{
+    background-color: #ffffff;
+    height: 50px;
+    font-family: 'Arial';
+    text-align: center;
+}
+.card{
+    background-color: #ffffff;
+    width: 600px;
+    margin: auto;
+    font-family: 'Arial';
+    margin-top: 40px;
+}
+.titles{
+    font-weight: bolder;
+    margin-left: 15px;
+    padding-top: 10px;
+    font-size: 16px;
+    display: inline-block;
+}
+.img{
+    width: 100%;
+}
+.coment{
+    margin: 20px;
+    padding-bottom: 1px;
+}
+span{
+    color: grey;
+    float: right;
+    position: relative;
+    top: 22px;
+    right: 15px;
+}
